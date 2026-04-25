@@ -1,0 +1,23 @@
+# Core data science
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter extras
+jupyterlab
+ipywidgets
+nbformat
+
+# Machine learning (add/remove as needed)
+xgboost
+lightgbm
+
+# Data fetching (add/remove as needed)
+requests
+openpyxl
